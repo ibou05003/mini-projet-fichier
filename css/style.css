@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /*background-image: url(../img/2.png);*/
+}
+
+.formulaire{
+    margin-top: 20vh;
+    padding: 20px;
+    background-color: rgba(75, 243, 159, 0.178);
+}
+footer{
+    color: whitesmoke;
+}
+.marge{
+    margin-top:50px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
